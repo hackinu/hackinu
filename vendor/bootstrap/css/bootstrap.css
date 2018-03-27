@@ -474,7 +474,7 @@ mark,
 
 .blockquote-footer::before {
   content: "\2014 \00A0";
-}
+} 
 
 .img-fluid {
   max-width: 100%;
@@ -2740,8 +2740,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #B24592;
+  border-color: #B24592;
 }
 
 .btn-dark:hover {
@@ -6134,7 +6134,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background: linear-gradient(90deg, #FEAC5E, #C779D0, #4BC0C8);
 }
 
 a.bg-light:hover, a.bg-light:focus,
